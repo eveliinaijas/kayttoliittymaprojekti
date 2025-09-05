@@ -1,0 +1,252 @@
+[
+    {
+        "Kysymys": "Miten kirjaan sairauspoissaolon?",
+        "Vastaus": "Sairauspoissaolon kirjaaminen onnistuu valitsemalla \"Poissaolot\" ja sitten \"Kirjaa sairauspoissaolo\". Täytä tarvittavat tiedot ja tallenna.",
+        "Avainsanat": [
+            "kirjaa sairauspoissaolo",
+            "sairauspoissaolo",
+            "poissaolo",
+            "sairaus"
+        ]
+    },
+    {
+        "Kysymys": "Miten muokkaan henkilön perustietoja?",
+        "Vastaus": "Et voi muokata perustietoja, sillä ne tulevat suoraan HR-järjestelmästä. Ole yhteydessä henkilöstöhallintoon.",
+        "Avainsanat": [
+            "muokkaa henkilön perustietoja",
+            "perustiedot",
+            "henkilötiedot",
+            "muokkaus"
+        ]
+    },
+    {
+        "Kysymys": "Miten kirjaan etätyöpäivän?",
+        "Vastaus": "Etätyöpäivän kirjaaminen onnistuu valitsemalla \"Työtunnit\" ja sitten \"Kirjaa etätyöpäivä\". Määritä työpäivän kesto ja tallenna.",
+        "Avainsanat": [
+            "kirjaa etätyöpäivä",
+            "etätyöpäivä",
+            "etätyö",
+            "työpäivä"
+        ]
+    },
+    {
+        "Kysymys": "Miten näen viimeisimmät ilmoitukset?",
+        "Vastaus": "Viimeisimmät ilmoitukset löytyvät valikosta \"Ilmoitukset\". Voit tarkastella kaikkia uusia ja vanhoja ilmoituksia.",
+        "Avainsanat": [
+            "näe viimeisimmät ilmoitukset",
+            "ilmoitukset",
+            "viimeisimmät",
+            "tarkastelu"
+        ]
+    },
+    {
+        "Kysymys": "Miten näen kertyneet ylityötunnit?",
+        "Vastaus": "Kertyneet ylityötunnit löytyvät valikosta \"Työtunnit\" ja sitten \"Kertyneet ylityöt\". Voit tarkastella kaikkia kertyneitä ylityötunteja.",
+        "Avainsanat": [
+            "näe kertyneet ylityötunnit",
+            "ylityötunnit",
+            "ylityöt",
+            "tarkastelu"
+        ]
+    },
+    {
+        "Kysymys": "Miten hyväksyn tiimin jäsenten ylityöt?",
+        "Vastaus": "Tiimin jäsenten ylityöt voi hyväksyä valitsemalla \"Tiimi\" ja sitten \"Hyväksy ylityöt\". Valitse hyväksyttävät ylityöt ja tallenna.",
+        "Avainsanat": [
+            "hyväksy tiimin jäsenten ylityöt",
+            "ylityöt",
+            "tiimi",
+            "hyväksyntä"
+        ]
+    },
+    {
+        "Kysymys": "Miten kirjaan ylityöt viikonloppuna?",
+        "Vastaus": "Viikonlopun ylityöt voi kirjata valitsemalla \"Työtunnit\" ja sitten \"Kirjaa viikonlopun ylityöt\". Määritä ylityötuntien määrä ja tallenna.",
+        "Avainsanat": [
+            "kirjaa ylityöt viikonloppuna",
+            "ylityöt",
+            "viikonloppu",
+            "työtunnit"
+        ]
+    },
+    {
+        "Kysymys": "Miten kirjaan ylityöt, jos unohdan leimata ulos?",
+        "Vastaus": "Jos unohdat leimata ulos, voit kirjata ylityöt manuaalisesti valitsemalla \"Työtunnit\" ja sitten \"Kirjaa ylityöt manuaalisesti\". Määritä ylityötuntien määrä ja tallenna.",
+        "Avainsanat": [
+            "kirjaa ylityöt",
+            "ylityöt",
+            "sisään-leima",
+            "ulos-leima"
+        ]
+    },
+    {
+        "Kysymys": "Miten näen ylityöraportit?",
+        "Vastaus": "Ylityöraportit löytyvät valikosta \"Raportit\" ja sitten \"Ylityöraportit\". Voit valita haluamasi ajanjakson ja tarkastella raportteja.",
+        "Avainsanat": [
+            "näe ylityöraportit",
+            "ylityöraportit",
+            "raportit",
+            "tarkastelu"
+        ]
+    },
+    {
+        "Kysymys": "Miten näen ylityötuntien kertymisen säännöt?",
+        "Vastaus": "Ylityötuntien kertymisen säännöt löytyvät valikosta \"Asetukset\" ja sitten \"Ylityösäännöt\". Voit tarkastella kaikkia ylityötuntien kertymiseen liittyviä sääntöjä.",
+        "Avainsanat": [
+            "näe ylityötuntien kertymisen säännöt",
+            "ylityötunnit",
+            "ylityöt",
+            "säännöt"
+        ]
+    },
+    {
+        "Kysymys": "Miten näen etätyöpäivien määrän?",
+        "Vastaus": "Etätyöpäivien määrä löytyy valikosta \"Raportit\" ja sitten \"Etätyöpäivät\". Voit tarkastella kaikkia kirjattuja etätyöpäiviä.",
+        "Avainsanat": [
+            "näe etätyöpäivien määrä",
+            "etätyöpäivät",
+            "etätyö",
+            "tarkastelu"
+        ]
+    },
+    {
+        "Kysymys": "Miten kirjaan lounastauon etätyöpäivänä?",
+        "Vastaus": "Lounastauon kirjaaminen etätyöpäivänä onnistuu valitsemalla \"Työtunnit\" ja sitten \"Kirjaa lounastauko\". Määritä tauon kesto ja tallenna.",
+        "Avainsanat": [
+            "kirjaa lounastauko etätyöpäivänä",
+            "lounastauko",
+            "etätyöpäivä",
+            "kirjaaminen"
+        ]
+    },
+    {
+        "Kysymys": "Miten kirjaan ylityöt etätyöpäivänä?",
+        "Vastaus": "Voit kirjata ylityöt etätyöpäivänä valitsemalla \"Työtunnit\" ja sitten \"Kirjaa ylityöt\". Määritä ylityötuntien määrä ja tallenna.",
+        "Avainsanat": [
+            "kirjaa ylityöt etätyöpäivänä",
+            "ylityöt",
+            "etätyöpäivä",
+            "kirjaaminen"
+        ]
+    },
+    {
+        "Kysymys": "Miten saan tukea teknisiin ongelmiin etätyöpäivänä?",
+        "Vastaus": "Voit saada tukea teknisiin ongelmiin etätyöpäivänä valitsemalla \"Tuki\" ja sitten \"Tekninen tuki\". Lähetä tukipyyntö ja odota vastausta.",
+        "Avainsanat": [
+            "tuki teknisiin ongelmiin etätyöpäivänä",
+            "tekninen tuki",
+            "etätyöpäivä",
+            "tukipyyntö"
+        ]
+    },
+    {
+        "Kysymys": "Miten näen tiimin jäsenten työtunnit?",
+        "Vastaus": "Tiimin jäsenten työtunnit löytyvät valikosta \"Tiimi\" ja sitten \"Työtunnit\". Voit valita haluamasi jäsenen ja ajanjakson.",
+        "Avainsanat": [
+            "näe tiimin jäsenten työtunnit",
+            "työtunnit",
+            "tiimi",
+            "tarkastelu"
+        ]
+    },
+    {
+        "Kysymys": "Miten asetan muistutuksen työtuntien kirjaamisesta?",
+        "Vastaus": "Voit asettaa muistutuksen valitsemalla \"Asetukset\" ja sitten \"Muistutukset\". Valitse \"Työtuntien kirjaaminen\" ja määritä haluamasi aika.",
+        "Avainsanat": [
+            "aseta muistutus työtuntien kirjaamisesta",
+            "muistutus",
+            "työtunnit",
+            "kirjaaminen"
+        ]
+    },
+    {
+        "Kysymys": "Miten poistan virheellisen kirjauksen?",
+        "Vastaus": "Virheellisen kirjauksen poistaminen onnistuu valitsemalla \"Työtunnit\" ja sitten \"Poista\" haluamasi kirjauksen kohdalla.",
+        "Avainsanat": [
+            "poista virheellinen kirjaus",
+            "virheellinen kirjaus",
+            "työtunnit",
+            "poistaminen"
+        ]
+    },
+    {
+        "Kysymys": "Miten kirjaan lounastauon?",
+        "Vastaus": "Lounastauon kirjaaminen onnistuu valitsemalla \"Työtunnit\" ja sitten \"Kirjaa lounastauko\". Määritä tauon kesto ja tallenna.",
+        "Avainsanat": [
+            "kirjaa lounastauko",
+            "lounastauko",
+            "työtunnit",
+            "kirjaaminen"
+        ]
+    },
+    {
+        "Kysymys": "Miten näen lomapäiväni?",
+        "Vastaus": "Lomapäivät löytyvät valikosta \"Lomat\" ja sitten \"Omat lomapäivät\". Voit tarkastella käytettyjä ja jäljellä olevia lomapäiviä.",
+        "Avainsanat": [
+            "näe lomapäivät",
+            "lomapäivät",
+            "lomat",
+            "tarkastelu"
+        ]
+    },
+    {
+        "Kysymys": "Miten kirjaan työtunnit?",
+        "Vastaus": "Voit kirjata työtunnit kirjautumalla järjestelmään ja valitsemalla \"Kirjaa työtunnit\"",
+        "Avainsanat": [
+            "kirjaa työtunnit",
+            "työtunnit",
+            "kirjaaminen",
+            "järjestelmä"
+        ]
+    },
+    {
+        "Kysymys": "Miten näen raportit?",
+        "Vastaus": "Raportit löytyvät valikosta \"Raportit\". Tähän voit valita haluamasi ajanjakson.",
+        "Avainsanat": [
+            "näe raportit",
+            "raportit",
+            "tarkastelu",
+            "ajanjakso"
+        ]
+    },
+    {
+        "Kysymys": "Miten näen henkilön perustiedot?",
+        "Vastaus": "Paina vasemmasta yläkulmasta i-painiketta.",
+        "Avainsanat": [
+            "näe henkilön perustiedot",
+            "perustiedot",
+            "henkilötiedot",
+            "tarkastelu"
+        ]
+    },
+    {
+        "Kysymys": "Miten kirjaan ylityöt?",
+        "Vastaus": "Laita henkilölle sisään-leima ja ylityö ulos-leima.",
+        "Avainsanat": [
+            "kirjaa ylityöt",
+            "ylityöt",
+            "sisään-leima",
+            "ulos-leima"
+        ]
+    },
+    {
+        "Kysymys": "Mitä teen, jos unohdan kirjautua ulos?",
+        "Vastaus": "Ole yhteydessä palkka-asiantuntija Minna Joroon.",
+        "Avainsanat": [
+            "unohdan kirjautua ulos",
+            "kirjautuminen",
+            "uloskirjautuminen",
+            "palkka-asiantuntija"
+        ]
+    },
+    {
+        "Kysymys": "Miten muokkaan tapahtumaa?",
+        "Vastaus": "Avaa tapahtuma ja klikkaa 'muokkaa'",
+        "Avainsanat": [
+            "muokkaa tapahtumaa",
+            "tapahtuman muokkaus",
+            "muokkaus",
+            "tapahtuma"
+        ]
+    }
+]
