@@ -1,0 +1,6 @@
+## en halua tätä Googlen hakutuloksiin!
+
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Disallow: /
+
